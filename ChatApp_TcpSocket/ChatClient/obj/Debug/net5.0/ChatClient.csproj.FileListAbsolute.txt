@@ -1,0 +1,16 @@
+C:\Users\Sabitov\source\repos\ChatApp_TcpSocket\ChatClient\bin\Debug\net5.0\ChatClient.exe
+C:\Users\Sabitov\source\repos\ChatApp_TcpSocket\ChatClient\bin\Debug\net5.0\ChatClient.deps.json
+C:\Users\Sabitov\source\repos\ChatApp_TcpSocket\ChatClient\bin\Debug\net5.0\ChatClient.runtimeconfig.json
+C:\Users\Sabitov\source\repos\ChatApp_TcpSocket\ChatClient\bin\Debug\net5.0\ChatClient.runtimeconfig.dev.json
+C:\Users\Sabitov\source\repos\ChatApp_TcpSocket\ChatClient\bin\Debug\net5.0\ChatClient.dll
+C:\Users\Sabitov\source\repos\ChatApp_TcpSocket\ChatClient\bin\Debug\net5.0\ref\ChatClient.dll
+C:\Users\Sabitov\source\repos\ChatApp_TcpSocket\ChatClient\bin\Debug\net5.0\ChatClient.pdb
+C:\Users\Sabitov\source\repos\ChatApp_TcpSocket\ChatClient\obj\Debug\net5.0\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabitov\source\repos\ChatApp_TcpSocket\ChatClient\obj\Debug\net5.0\ChatClient.AssemblyInfoInputs.cache
+C:\Users\Sabitov\source\repos\ChatApp_TcpSocket\ChatClient\obj\Debug\net5.0\ChatClient.AssemblyInfo.cs
+C:\Users\Sabitov\source\repos\ChatApp_TcpSocket\ChatClient\obj\Debug\net5.0\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Sabitov\source\repos\ChatApp_TcpSocket\ChatClient\obj\Debug\net5.0\ChatClient.dll
+C:\Users\Sabitov\source\repos\ChatApp_TcpSocket\ChatClient\obj\Debug\net5.0\ref\ChatClient.dll
+C:\Users\Sabitov\source\repos\ChatApp_TcpSocket\ChatClient\obj\Debug\net5.0\ChatClient.pdb
+C:\Users\Sabitov\source\repos\ChatApp_TcpSocket\ChatClient\obj\Debug\net5.0\ChatClient.genruntimeconfig.cache
+C:\Users\Sabitov\source\repos\ChatApp_TcpSocket\ChatClient\obj\Debug\net5.0\ChatClient.csprojAssemblyReference.cache
